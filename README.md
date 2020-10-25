@@ -14,4 +14,4 @@ Data link: https://6sense.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?
 
 ### Tableau Visualization:
 <span>src="Screen%20Shot%202563-10-19%20at%209.59.38%20PM.png"</span>
-<img src="file:///Users/ceciliabeauty/Desktop/Screen%20Shot%202563-10-19%20at%209.59.38%20PM.png" />
+<img src="Screen%20Shot%202563-10-19%20at%209.59.38%20PM.png" />
