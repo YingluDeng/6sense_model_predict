@@ -12,3 +12,6 @@ This notebook is for training the 6sense data through different models (such as 
 </ul>
 Data link: https://6sense.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?id=%2FShared%20Documents%2FData%20Science%2FData%2DX%2Fdata&p=true&originalPath=aHR0cHM6Ly82c2Vuc2Uuc2hhcmVwb2ludC5jb20vOmY6L2cvRXVJdlhTQ0lLUnRPa0hZdFQ5QWFkb0VCNDU0LTZOU2lhQ2pDQVpmcVluQWxVZz9ydGltZT1saFdwWWQ1NDJFZw
 
+### Tableau Visualization:
+<img src="file:///Users/ceciliabeauty/Desktop/Screen%20Shot%202563-10-19%20at%209.59.38%20PM.png" alt="vis">
+
