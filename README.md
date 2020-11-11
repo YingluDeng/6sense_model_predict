@@ -15,3 +15,12 @@ This notebook is for training the 6sense data through different models (such as 
 <img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-10-19%20at%209.45.03%20PM.png" />
 <img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-10-19%20at%209.51.28%20PM.png" />
 <img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-10-19%20at%209.59.38%20PM.png" />
+
+### Tableau Visualization For Each 6sense Csv:
+<img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-11-07%20at%2012.25.20%20AM.png" />
+<img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-11-07%20at%2012.25.33%20AM.png" />
+<img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-11-07%20at%2012.28.39%20AM.png" />
+<img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-11-07%20at%2012.30.58%20AM.png" />
+<img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-11-07%20at%2012.31.15%20AM.png" />
+<img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-11-07%20at%2012.31.27%20AM.png" />
+<img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-11-07%20at%2012.31.44%20AM.png" />
