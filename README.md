@@ -11,7 +11,7 @@ This notebook is for training the 6sense data through different models (such as 
 <li>people.csv: the people who were called, along with their job level and function and the ID of the company they work for</li>
 </ul>
 
-### Tableau Visualization:
+### Tableau Visualization (Merge Table):
 <img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-10-19%20at%209.45.03%20PM.png" />
 <img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-10-19%20at%209.51.28%20PM.png" />
 <img src="https://github.com/YingluDeng/6sense_model_predict/blob/main/Tableau/Screen%20Shot%202563-10-19%20at%209.59.38%20PM.png" />
