@@ -1,7 +1,7 @@
 # 6sense_model_predict
 
 ## Introduction
-This notebook is for training the 6sense data through different models (such as Random Froest, KNN, XGBoost and so on) and find the best fit model to predict several variables including call disposition, best day of week to call and best hour to call so that the company can get engagement with prospective customers.
+This notebook is for training the 6sense data through different models (such as Random Froest, KNN, XGBoost and so on) and find the best fit model through several variables including call disposition, best day of week to call and best hour to call, predicting the success or not if a customer would pick up phone calls so that the company can get engagement with prospective customers.
 
 ### The Data:
 <ul>
